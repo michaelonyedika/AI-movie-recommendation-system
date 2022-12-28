@@ -4,4 +4,4 @@ AI movie recommendation system was built with machine learning (python), on user
 
 Credit: Dataquest
 
-Dataset link: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjRhTHN3ZlZVenZlYS1iaHFNMW9aY0txMjR1d3xBQ3Jtc0tuZVBLQmU0UjFoWG05aHNyaUI5SUFvYlQxLTNXd0g0d09zTERZekU0dV9FUVVvYkNXZFYyUGNoUXR3OHROUUU5Qzh4MU1qQUgyWUhjbDh2S2dyTlNTWjVzZU1lN0w2MGRBYXlvQWVkbUliSV9xQ25yUQ&q=https%3A%2F%2Ffiles.grouplens.org%2Fdatasets%2Fmovielens%2Fml-25m.zip&v=eyEabQRBMQA
+Dataset link: https://files.grouplens.org/datasets/movielens/ml-25m.zip
